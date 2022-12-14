@@ -1,0 +1,15 @@
+C:\pro\Math Quiz\bin\Debug\net6.0\Math Quiz.exe
+C:\pro\Math Quiz\bin\Debug\net6.0\Math Quiz.deps.json
+C:\pro\Math Quiz\bin\Debug\net6.0\Math Quiz.runtimeconfig.json
+C:\pro\Math Quiz\bin\Debug\net6.0\Math Quiz.dll
+C:\pro\Math Quiz\bin\Debug\net6.0\Math Quiz.pdb
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.csproj.AssemblyReference.cache
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.AssemblyInfoInputs.cache
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.AssemblyInfo.cs
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.csproj.CoreCompileInputs.cache
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.dll
+C:\pro\Math Quiz\obj\Debug\net6.0\refint\Math Quiz.dll
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.pdb
+C:\pro\Math Quiz\obj\Debug\net6.0\Math Quiz.genruntimeconfig.cache
+C:\pro\Math Quiz\obj\Debug\net6.0\ref\Math Quiz.dll

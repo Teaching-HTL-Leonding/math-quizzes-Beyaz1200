@@ -1,0 +1,15 @@
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\bin\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).exe
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\bin\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).deps.json
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\bin\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).runtimeconfig.json
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\bin\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).dll
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\bin\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).pdb
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).csproj.AssemblyReference.cache
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).AssemblyInfoInputs.cache
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).AssemblyInfo.cs
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).csproj.CoreCompileInputs.cache
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).dll
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\refint\Hailstone Sequence (aka Collatz Conjecture).dll
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).pdb
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\Hailstone Sequence (aka Collatz Conjecture).genruntimeconfig.cache
+C:\pro\Hailstone Sequence (aka Collatz Conjecture)\obj\Debug\net6.0\ref\Hailstone Sequence (aka Collatz Conjecture).dll
